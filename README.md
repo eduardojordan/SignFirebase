@@ -6,8 +6,8 @@ SignFirebase is a simple authentication practice project built with SwiftUI and 
 <h1 style="font-size: 40px;">📸 Screenshots</h1>
 
 <p align="center">
-  <img src="https://github.com/eduardojordan/NetflixClone/blob/master/1.png?raw=true" width="200" hspace="10"/>
-  <img src="https://github.com/eduardojordan/NetflixClone/blob/master/2.png?raw=true" width="200" hspace="10"/>
+  <img src="https://github.com/eduardojordan/SignFirebase/blob/master/1.png?raw=true" width="200" hspace="10"/>
+  <img src="https://github.com/eduardojordan/SignFirebase/blob/master/2.png?raw=true" width="200" hspace="10"/>
 </p>
 
 
