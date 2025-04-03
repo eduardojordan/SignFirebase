@@ -14,8 +14,11 @@ SignFirebase is a simple authentication practice project built with SwiftUI and 
 <h2 style="font-size: 35px;">🚀 Features</h2>
 
 ✅ Email and password authentication with Firebase
+
 ✅ SwiftUI-based modern UI
+
 ✅ Simple and clean architecture for easy understanding
+
 ✅ Firebase user session management
 
 <h2 style="font-size: 35px;">🏗 Architecture</h2>
